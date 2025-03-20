@@ -12,22 +12,22 @@ A teacher was caught teaching students material that was inappropriate and irrel
 
 ## Process
 1. Start Autopsy and start a case with a name and directory for the folder
-![Process](./Autopsy_photos/Screenshot 2025-03-19 214558.png)
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20214558.png)
 2. Type a case number and examiner information if needed
-![Process](./Autopsy_photos/Screenshot 2025-03-19 215151.png)
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20215151.png)
 3. My data source type consisted of a disk image so that is what was selected
-![Process](./Autopsy_photos/Screenshot 2025-03-19 220152.png)
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20220152.png)
 4. I put in the path to the suspect drive and put in hash values to ensure integrity later on
-![Process](./Autopsy_photos/Screenshot 2025-03-19 230635.png)   
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20230635.png)   
 5. I ran ingest modules on all checkboxes
-![Process](./Autopsy_photos/Screenshot 2025-03-19 230855.png)   
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20230855.png)   
 6. From here, I am able to look at all of the contents of the suspect drive such as images and files
-![Process](./Autopsy_photos/Screenshot 2025-03-19 231908.png)   
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20231908.png)   
 7. I tagged what may seem like evidence that can be used against a suspect, this lab consisted of something not as serious- teaching evolution which isn't allowed at this school
-![Process](./Autopsy_photos/Screenshot 2025-03-19 232746.png)  
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20232746.png)  
 8. Now I generated a HTML report with the subject as the header and the examiner, which is me, as the footer
-![Process](./Autopsy_photos/Screenshot 2025-03-19 233730.png)   
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20233730.png)   
 9. I reported on all tagged results
-![Process](./Autopsy_photos/Screenshot 2025-03-19 233848.png)  
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20233848.png)  
 10. After double clicking the report, you can see the "evidence" against this suspect
-![Process](./Autopsy_photos/Screenshot 2025-03-19 234047.png)
+![Process](./Autopsy_photos/Screenshot%202025-03-19%20234047.png)
